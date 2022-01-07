@@ -1,3 +1,4 @@
 #FFC800 - Yellow
 #000000 - Black
 #FF006F - Pink
+#00DDFF - Blue
